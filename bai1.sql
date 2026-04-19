@@ -1,6 +1,6 @@
 Create table products(
 	product_id SERIAL PRIMARY KEY,
-	product_name, VARCHAR(50),
+	product_name VARCHAR(50),
 	category VARCHAR(50)
 );
 
